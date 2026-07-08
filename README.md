@@ -1,5 +1,7 @@
 # IT Support & Security Triage Problem Playbook
 
+(Click on the link to get to the page: https://aaileenssyed.github.io/its-playbook/)
+
 A practical problem-solving playbook built around daily IT ticketing practice, Jira-style documentation, and security-aware troubleshooting.
 
 This project is focused on learning how to handle common IT support and entry-level security tickets in a structured way: asking the right questions, checking the right systems, documenting the work clearly, knowing when to escalate, and writing useful internal notes that another technician could follow.
